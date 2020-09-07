@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+List of items to grow:
+- Tomato
+- curry leaves
+- ladies finger
+- beans
+- pumpkin 
